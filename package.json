@@ -1,0 +1,14 @@
+{
+  "name": "pnpm-issue-4",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bash": "bash",
+    "node": "node",
+    "cat": "cat",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
